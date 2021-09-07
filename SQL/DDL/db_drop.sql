@@ -1,0 +1,1 @@
+DROP DATABASE oc_pizza_database;
