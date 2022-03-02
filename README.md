@@ -22,5 +22,5 @@
 
 ## 3. Déployement
 
-- [Dossier d'exploitation](https://github.com/gtdevgit/P10/blob/main/Documentation/PDOC_Pizza_03_1_dossier%20d_exploitation.pdf)
+- [**Dossier d'exploitation**](https://github.com/gtdevgit/P10/blob/main/Documentation/PDOC_Pizza_03_1_dossier%20d_exploitation.pdf)
 - [Proces verbale de livraison](https://github.com/gtdevgit/P10/blob/main/Documentation/PDOC_Pizza_03_2_pv_livraison_finale.pdf)
